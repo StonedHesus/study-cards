@@ -1,0 +1,1 @@
+Java's `motivation` for the `Scanner` `class`
