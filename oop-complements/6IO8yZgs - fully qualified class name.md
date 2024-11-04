@@ -1,0 +1,1 @@
+fully qualified class name

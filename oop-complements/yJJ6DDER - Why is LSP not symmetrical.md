@@ -1,0 +1,3 @@
+Why is `LSP` not `symmetrical`?
+---
+`LSP` is not `symmetrical` due to the fact that the `inheritance relation` is not a `symmetrical relation`, i.e. it is a `directed relationship` in which `subclasses` `encapsulate` the `behaviour and shape` of `superclasses`, plus potentially adding additional `traits`; hence at any point in time a subclass might have information which the `superclass` does not have, thus making it impossible to `instantiate` an `instance` of the `subclass` by the `superclass`.
